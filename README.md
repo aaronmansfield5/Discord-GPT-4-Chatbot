@@ -14,7 +14,7 @@ This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It a
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/discord-gpt-4-chatbot.git
+git clone https://github.com/aaronmansfield5/discord-gpt-4-chatbot.git
 cd discord-gpt-4-chatbot
 ```
 
