@@ -1,6 +1,9 @@
 # Discord GPT-4 Chatbot
 This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It allows you to interact with the AI model within a Discord server. The chatbot listens to messages sent by users and replies using GPT-4, making it a great addition to any server for fun, engaging, and informative conversations.
 
+![image](https://user-images.githubusercontent.com/37600872/226340591-85d3b4b5-eb4f-475a-8f6b-286180b8dd8b.png)
+
+
 ## Prerequisites
 - Node.js (v14.0.0 or higher)
 - NPM (v6.14.0 or higher)
