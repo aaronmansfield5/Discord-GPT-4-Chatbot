@@ -47,7 +47,7 @@ node main.js
 ```
 2. Invite the bot to your Discord server using the invite link provided by the Discord Developer Portal.
 
-3.Once the bot is online, it will start listening to messages and respond using GPT-4.
+3. Once the bot is online, it will start listening to messages and respond using GPT-4.
 
 ## Code Explanation
 The main components of the code are:
