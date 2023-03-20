@@ -36,7 +36,7 @@ client.on('messageCreate', async (message) => {
 async function generateResponse(prompt) {
     try {
         const response = await openai.createCompletion({
-            model: 'text-davinci-003',
+            model: 'davinci-codex',
             prompt,
             max_tokens: 1024,
             n: 1
