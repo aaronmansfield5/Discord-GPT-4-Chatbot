@@ -3,6 +3,8 @@ This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It a
 
 ![image](https://user-images.githubusercontent.com/37600872/226459308-6de92a4e-7665-4a35-9b06-a87d84deae63.png)
 
+<a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/issues">![Issues](https://img.shields.io/github/issues/aaronmansfield5/Discord-GPT-4-Chatbot?style=flat)</a>
+
 ## Prerequisites
 - <a href="https://nodejs.org/">![](https://img.shields.io/badge/-Node.js%20v14.0.0<=-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)</a>
 - <a href="https://www.npmjs.com/">![](https://img.shields.io/badge/-NPM%20v6.14.0<=-informational?style=flat&logo=npm&logoColor=white&color=CB3837)</a>
