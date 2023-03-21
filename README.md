@@ -6,11 +6,11 @@ This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It a
 <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/issues">![Issues](https://img.shields.io/github/issues/aaronmansfield5/Discord-GPT-4-Chatbot?style=flat)</a>
 
 ## Prerequisites
-- <a href="https://nodejs.org/">![](https://img.shields.io/badge/-Node.js%20v14.0%2B-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)</a>
-- <a href="https://www.npmjs.com/">![](https://img.shields.io/badge/-NPM%20v6.0%2B-informational?style=flat&logo=npm&logoColor=white&color=CB3837)</a>
-- <a href="https://discord.com/">![](https://img.shields.io/badge/-Account-informational?style=flat&logo=discord&logoColor=white&color=5865F2)</a>
-- <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#discord-bot-token">![](https://img.shields.io/badge/-Bot%20Token-informational?style=flat&logo=discord&logoColor=white&color=5865F2)</a>
-- <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#openai-api-key">![](https://img.shields.io/badge/-API%20Key-informational?style=flat&logo=openai&logoColor=white&color=412991)</a>
+- <a href="https://nodejs.org/">![](https://img.shields.io/badge/Node.js-v14.0%2B-brightgreen)</a>
+- <a href="https://www.npmjs.com/">![](https://img.shields.io/badge/npm-v6.0%2B-blue)</a>
+- <a href="https://discord.com/">![](https://img.shields.io/badge/Discord%20Account-Required-red)</a>
+- <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#discord-bot-token">![](https://img.shields.io/badge/Discord%20Bot%20Token-Required-red)</a>
+- <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#openai-api-key">![](https://img.shields.io/badge/OpenAI%20API%20Token-Required-red)</a>
 
 ## Installation
 1. Clone the repository:
