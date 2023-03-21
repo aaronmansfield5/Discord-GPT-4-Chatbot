@@ -65,3 +65,10 @@ The main components of the code are:
 
 ## Contributing
 Feel free to submit issues or pull requests if you find any problems or have suggestions for improvements. Contributions are welcome and appreciated!
+
+<div align="center">
+
+[![Stargazers repo roster for @aaronmansfield5/Discord-GPT-4-Chatbot](https://reporoster.com/stars/dark/aaronmansfield5/Discord-GPT-4-Chatbot)](https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/stargazers)
+[![Forkers repo roster for @aaronmansfield5/Discord-GPT-4-Chatbot](https://reporoster.com/forks/dark/aaronmansfield5/Discord-GPT-4-Chatbot)](https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/network/members)
+
+<div>
