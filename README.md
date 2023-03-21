@@ -6,8 +6,8 @@ This repository contains a Discord chatbot powered by OpenAI's GPT-4 model. It a
 <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot/issues">![Issues](https://img.shields.io/github/issues/aaronmansfield5/Discord-GPT-4-Chatbot?style=flat)</a>
 
 ## Prerequisites
-- <a href="https://nodejs.org/">![](https://img.shields.io/badge/-Node.js%20v14.0.0<=-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)</a>
-- <a href="https://www.npmjs.com/">![](https://img.shields.io/badge/-NPM%20v6.14.0<=-informational?style=flat&logo=npm&logoColor=white&color=CB3837)</a>
+- <a href="https://nodejs.org/">![](https://img.shields.io/badge/-Node.js%20v14.0.0%2-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)</a>
+- <a href="https://www.npmjs.com/">![](https://img.shields.io/badge/-NPM%20v6.14.0%2-informational?style=flat&logo=npm&logoColor=white&color=CB3837)</a>
 - <a href="https://discord.com/">![](https://img.shields.io/badge/-Account-informational?style=flat&logo=discord&logoColor=white&color=5865F2)</a>
 - <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#discord-bot-token">![](https://img.shields.io/badge/-Bot%20Token-informational?style=flat&logo=discord&logoColor=white&color=5865F2)</a>
 - <a href="https://github.com/aaronmansfield5/Discord-GPT-4-Chatbot#openai-api-key">![](https://img.shields.io/badge/-API%20Key-informational?style=flat&logo=openai&logoColor=white&color=412991)</a>
